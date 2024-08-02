@@ -1,0 +1,8 @@
+-x 
+c++ 
+-I 
+/home/zhipz/Projects/CorsikaIO/external/xrootd/src/ 
+-I 
+/home/zhipz/Projects/CorsikaIO/include
+-I
+/home/zhipz/Projects/CorsikaIO/external/googletest/googletest/include
